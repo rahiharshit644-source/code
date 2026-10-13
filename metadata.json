@@ -1,0 +1,6 @@
+{
+  "name": "CodePilot AI",
+  "description": "Mobile-first native AI coding workspace with OmniRoute gateway integration, multi-file code editing, diff review, project analysis, and GitHub workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
